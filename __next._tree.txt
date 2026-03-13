@@ -1,4 +1,4 @@
-:HL["./_next/static/chunks/33c8f153425d1371.css","style"]
+:HL["./_next/static/chunks/3c5924f40ba1a76a.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap","style"]
 :HL["https://cdn.brandfetch.io/idQI0qYhhb/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1768794155662","image"]
-0:{"buildId":"J0Dwsg4ioHo4a0Grf_QeE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"qi-XafIHKBMiLIE0BCl2p","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
